@@ -1,4 +1,4 @@
-# (c) Raphael A. P. Oliveira, astronomer
+# (c) LeetCode, Raphael A. P. Oliveira
 # My solution for the problem 1496, given in this link:
 # https://leetcode.com/problems/path-crossing/
 
